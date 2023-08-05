@@ -79,7 +79,7 @@
 
 .hero__input:checked+.hero__answer-text::before{
   background: #505050;
-  content: url(/img/Vector\ 1.png);
+  content: url("../img/Vector 1.png");
   border: 0;
   }
 
@@ -120,7 +120,7 @@
   content: "";
   width: 80px;
   height: 80px;
-  background-image: url("/img/Group\ 2.svg");
+  background-image: url("../img/Group 2.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -129,7 +129,7 @@
   content: "";
   width: 80px;
   height: 80px;
-  background-image: url("/img/Group\ 2\(1\).svg");
+  background-image: url("../img/Group 2(1).svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
